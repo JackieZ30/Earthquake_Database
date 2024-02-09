@@ -1,11 +1,3 @@
-package Program6;
-/**
- * CPS142 - Spring 2022
- * Program 01
- * Earthquake class - represents an occurrance of an Earthquake.
- * @author Kan Xing Zheng
- *
- */
 public class Earthquake implements Comparable<Earthquake> {
 
 	private String id;
