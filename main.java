@@ -9,16 +9,6 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.stream.Stream;
 
-/**
- * CPS142 - Spring 2022
- * Program06 - Main Test Program.
- * 4/22/2022
- * @author Kan Xing Zheng
- * Purpose: Creating a program using Streams API that analyzes our Earthquake data file to produce a
- * depth histogram displaying minimum magnitude, maximum magnitude, average magnitude, 
- * and total number of earthquakes within various depth ranges.
- */
-
 public class main 
 {
 	private static DecimalFormat df = new DecimalFormat("#.##");
